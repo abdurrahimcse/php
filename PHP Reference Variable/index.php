@@ -74,6 +74,7 @@ foreach (new myClass as &$my) {
 	$my=strtoupper($my);
 
 }
+
 echo "<pre>";
 	print_r(new myClass);
 ?>
